@@ -4,6 +4,7 @@
 
 # not just an excuse for learning vi and git at all
 
+<<<<<<< HEAD
 echo "*******************************************************************************"
 echo "Hello there, first thing's first. Who, what, when and ........................."
 echo "*******************************************************************************"
@@ -38,3 +39,16 @@ fi
 
 	
 
+=======
+echo "This is a script to do lots of things you may never need to know"
+echo "----------------------------------------------------------------"
+echo "Then again, you might find yourself wondering what you did before\
+this script came along"
+echo "All mighty Kernel ..............:'uname -s'"
+echo "Release number .................:'uname -r'"
+echo "Version number .................:'uname -v'"
+echo "System hostname ................:'uname -n'"
+echo "CPU (processor) ................:'uname -p'"
+echo "Hardware platform ..............:'uname -i'"
+echo "Operating system ...............:'uname -o'"
+>>>>>>> 18990bf831149f2a69672742c67c23ed53c99895
